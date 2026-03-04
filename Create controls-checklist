@@ -1,0 +1,17 @@
+# Controls Assessment
+
+| Control | Implemented |
+|-------|-------------|
+| Least Privilege | No |
+| Disaster Recovery Plan | No |
+| Password Policies | No |
+| Separation of Duties | No |
+| Firewall | Yes |
+| Intrusion Detection System | No |
+| Backups | No |
+| Antivirus | Yes |
+| Encryption | No |
+| Password Manager | No |
+| Physical Locks | Yes |
+| CCTV | Yes |
+| Fire Detection | Yes |
