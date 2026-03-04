@@ -1,0 +1,15 @@
+# Risk Assessment Summary
+
+## High Risk
+- Lack of encryption for sensitive financial data
+- No intrusion detection system
+- No backups for critical data
+- No disaster recovery planning
+
+## Medium Risk
+- Weak password policies
+- No password management system
+- Excessive employee data access
+
+## Low Risk
+- Physical building security controls are present
