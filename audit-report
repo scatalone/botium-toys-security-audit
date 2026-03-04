@@ -1,0 +1,15 @@
+# Internal Security Audit Report
+
+## Company
+Botium Toys
+
+## Audit Framework
+NIST Cybersecurity Framework
+
+## Scope
+Review security controls, compliance requirements, and potential risks affecting company infrastructure and customer data.
+
+## Summary
+The audit identified multiple gaps in administrative and technical controls that could expose the company to data breaches and regulatory penalties.
+
+Immediate action is recommended to improve identity access management, encryption practices, monitoring capabilities, and business continuity planning.
